@@ -104,6 +104,8 @@ the Struts approach.
 
 The Apache Struts community does not offer commercial support by itself.
 
+test for lgtm
+
 Some Apache Struts maintainers are working with [Tidelift](https://tidelift.com/) to provide commercial support and
 invest paid working time in the improvement of the Apache Struts framework. For more information, visit 
 the [Tidelift resources regarding Apache Struts](https://tidelift.com/subscription/pkg/maven-org-apache-struts-struts2-core?utm_source=maven-org-apache-struts-struts2-core&utm_medium=referral&utm_campaign=readme)
